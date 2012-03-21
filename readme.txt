@@ -12,5 +12,5 @@ For each round, type in the name of the round. (e.g.
 
 TO DO:
 -fix bugs related to betting
--convert game to CLOS
+-refactor code/convert game to CLOS
 -improve AI code/convert to agent
